@@ -10,3 +10,6 @@ BeautifulSoup is always handy, but it wasn't enough for me just to scrape throug
 
 ## Eploring 67 years of LEGO
 It's a DataCamp project aims for Pandas using. Select / group by / sort etc.
+
+## John Snow's ghost map
+Another DataCamp project about John Snow, who was the first "Data Scientist". The project aims for pandas practicing, create new columns, rename them, and make list from columns. Folium and Bokeh is the two visualisation librarier which were new to me.
