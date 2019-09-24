@@ -16,3 +16,6 @@ Another DataCamp project about John Snow, who was the first "Data Scientist". Th
 
 ## Python basics
 It was made as a very-very-very quick tutorial for the budapest.py workshops (github.com/budapestpy-workshops) to those who hasn't used Python before.
+
+## SQLite and Python
+It was the topic of one of the former Data Revolution (now budapest.py) workshops. This was the first time, I tried to connect a database with Python. I choose SQLite, because I wasn't needed a robust database - and I've never worked with it before. The idea came from a pydata meetup, where someone presented a Python project with the BKK vehicles routes. I simplified it, and got all the stops from BKK's page (it's called GTFS). For practicing reasons, I made a table in the SQLite database from Python, where I inserted the previously readed csv-s values. Then the table was brought back to pandas, and visualise with Folium. The problem was that there are ~5000 stops, which kills the computer when it tries to draw every piece of it one by one. After a long session of solution finding, I found the markercluster, and the project was ready.
