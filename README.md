@@ -22,3 +22,6 @@ It was the topic of one of the former Data Revolution (now budapest.py) workshop
 
 ## Word frequency of Moby Dick
 DataCamp project, where the NLTK package was introduced. Beautifulsoup, tokenization, removing stopwords. From the notebook, you can find out which is the most used word of Moby Dick. And no, it's not Moby Dick.
+
+## Gapminder
+One of the first notebooks I made in early 2019. The gapminder dataset contains the change of the life expectancy of each country. I made a plot to show that in general, the life expectancy is growing with time.
