@@ -13,3 +13,6 @@ It's a DataCamp project aims for Pandas using. Select / group by / sort etc.
 
 ## John Snow's ghost map
 Another DataCamp project about John Snow, who was the first "Data Scientist". The project aims for pandas practicing, create new columns, rename them, and make list from columns. Folium and Bokeh is the two visualisation librarier which were new to me.
+
+## Python basics
+It was made as a very-very-very quick tutorial for the budapest.py workshops (github.com/budapestpy-workshops) to those who hasn't used Python before.
